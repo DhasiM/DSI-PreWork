@@ -1,2 +1,2 @@
 # DSI-PreWork
-Pre-assignment stuff
+Pre DSI Coding Assignments. Newibie code.
